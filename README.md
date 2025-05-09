@@ -60,6 +60,12 @@ python client.py
 - **Text/Image Detection** – Server intelligently handles message types
 - **Error Handling** – Basic checks for input and connection errors
 
+## 📂 File Structure
+
+├── server.py : Manages server operations, client connections, and message broadcasting.
+├── Client.py : Handles client connections, sending messages, and receiving broadcasts.
+
+
 ## 📚 References
 
 - [Python Socket Programming Docs](https://docs.python.org/3/library/socket.html)
