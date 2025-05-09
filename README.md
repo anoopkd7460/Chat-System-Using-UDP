@@ -62,8 +62,8 @@ python client.py
 
 ## 📂 File Structure
 
-├── server.py : Manages server operations, client connections, and message broadcasting.
-├── Client.py : Handles client connections, sending messages, and receiving broadcasts.
+- **server.py** : Manages server operations, client connections, and message broadcasting.
+- **Client.py** : Handles client connections, sending messages, and receiving broadcasts.
 
 
 ## 📚 References
